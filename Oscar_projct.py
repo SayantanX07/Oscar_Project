@@ -82,9 +82,10 @@ for i in soup.findAll('td'):
 # print(Nominations)
 # print(len(Nominations))
 
-# ✅ Save the scraped data to a CSV file
+# Save the scraped data to a CSV file
 # df.to_csv("Oscar_Winning_Films.csv", index=False)
-# print("\n✅ CSV file 'Oscar_Winning_Films.csv' created successfully!")
+# print("\n CSV file 'Oscar_Winning_Films.csv' created successfully!")
+
 
 
 
